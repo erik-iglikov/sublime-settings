@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Ethereum",
+		"EthereumSoliditySnippets",
+		"FileIcons",
+		"GitGutter",
+		"Material Theme",
+		"One Dark Color Scheme",
+		"Package Control",
+		"React IDE",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - One Dark"
+	]
+}
